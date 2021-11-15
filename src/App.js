@@ -6,7 +6,7 @@ const App = () => {
   const [num, setNum] = useState(0);
   const problems = [
     {
-      title: "문제 제목1",
+      title: "문제 ㄴㅇㄻ",
       content: "문제 내용1",
       answer: "문제 정답1"
     },
